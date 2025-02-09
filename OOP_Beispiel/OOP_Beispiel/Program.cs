@@ -32,6 +32,10 @@
             Console.WriteLine("Plane doorcounter: " + plane.Speed);
             Console.WriteLine("Plane has Jetdrive: " + plane.HasJetDrive);
             plane.LogInformation();
+            plane.Move();
+
+            Motorcycle motorcycle = new Motorcycle();
+            motorcycle.Move();
         }
     }
 }

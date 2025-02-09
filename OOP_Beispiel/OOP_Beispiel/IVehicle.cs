@@ -6,11 +6,8 @@ using System.Threading.Tasks;
 
 namespace OOP_Beispiel
 {
-    internal class Motorcycle : IVehicle
+    interface IVehicle
     {
-        public void Move()
-        {
-            Console.WriteLine("Das Motorrad fährt.");
-        }
+        public void Move();
     }
 }
