@@ -12,3 +12,4 @@ C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net
 C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.pdb
 C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.genruntimeconfig.cache
 C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\ref\OOP_Beispiel.dll
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.sourcelink.json
