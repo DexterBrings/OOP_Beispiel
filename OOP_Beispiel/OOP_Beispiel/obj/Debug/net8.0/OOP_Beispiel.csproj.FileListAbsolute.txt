@@ -1,0 +1,14 @@
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\bin\Debug\net8.0\OOP_Beispiel.exe
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\bin\Debug\net8.0\OOP_Beispiel.deps.json
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\bin\Debug\net8.0\OOP_Beispiel.runtimeconfig.json
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\bin\Debug\net8.0\OOP_Beispiel.dll
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\bin\Debug\net8.0\OOP_Beispiel.pdb
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.AssemblyInfoInputs.cache
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.AssemblyInfo.cs
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.csproj.CoreCompileInputs.cache
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.dll
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\refint\OOP_Beispiel.dll
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.pdb
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\OOP_Beispiel.genruntimeconfig.cache
+C:\Users\dexte\source\repos\OOP_Beispiel\OOP_Beispiel\OOP_Beispiel\obj\Debug\net8.0\ref\OOP_Beispiel.dll
