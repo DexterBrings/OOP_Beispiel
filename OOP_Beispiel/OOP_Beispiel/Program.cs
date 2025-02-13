@@ -4,7 +4,6 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
 
             Car car = new Car()
             {
@@ -15,27 +14,56 @@
             };
 
             Plane plane = new Plane();
-
             plane.Speed = 250;
             plane.Acceleration = 50;
             plane.DoorCounter = 2;
             plane.HasJetDrive = true;
 
-            Console.WriteLine("Car speed: " + car.Speed);
-            Console.WriteLine("Car acceleration: " + car.Acceleration);
-            Console.WriteLine("Car breakspeed: " + car.BreakSpeed);
-            Console.WriteLine("Car doorcounter: " + car.Speed);
-            car.LogInformation();
-
-            Console.WriteLine("Plane speed: " + plane.Speed);
-            Console.WriteLine("Plane acceleratioin: " + plane.Speed);
-            Console.WriteLine("Plane doorcounter: " + plane.Speed);
-            Console.WriteLine("Plane has Jetdrive: " + plane.HasJetDrive);
-            plane.LogInformation();
-            plane.Move();
 
             Motorcycle motorcycle = new Motorcycle();
-            motorcycle.Move();
+            motorcycle.Speed = 120;
+            motorcycle.Acceleration = 40;
+
+
+            List<Vehicle> list = new List<Vehicle>();
+            list.Add(car);
+            list.Add(motorcycle);
+            list.Add(plane);
+
+            Console.WriteLine("Welches Fahrzeug möchtest du fahren?");
+            var userInput = Console.ReadLine();
+
+            foreach (Vehicle vehicle in list)
+            {
+                if (vehicle.GetType().Name == userInput)
+                {
+                    Console.WriteLine("Fahrzeug gefunden: " + userInput);
+
+                    vehicle.LogInformation();
+
+                    if(userInput == "Car")
+                    {
+                        Car myCar = vehicle as Car;
+                        myCar.Move();
+
+                    } else if(userInput == "Motorcycle")
+                    {
+                        Motorcycle myBike = vehicle as Motorcycle;
+                        myBike.Move();
+
+                    } else if(userInput == "Plane")
+                    {
+                        Plane myPlane = vehicle as Plane;
+                        myPlane.Move();
+
+                    } else
+                    {
+                        Console.WriteLine("Dieses Fahrzeug steht nicht bereit.");
+                    }
+
+                        break;
+                }
+            }
         }
     }
 }

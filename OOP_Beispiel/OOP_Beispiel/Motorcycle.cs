@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace OOP_Beispiel
 {
-    internal class Motorcycle : IVehicle
+    internal class Motorcycle : Vehicle, IVehicle
     {
         public void Move()
         {
