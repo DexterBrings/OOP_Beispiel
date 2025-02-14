@@ -19,6 +19,10 @@
             plane.DoorCounter = 2;
             plane.HasJetDrive = true;
 
+            Helicopter  heli = new Helicopter();
+            heli.Speed = 250;
+            heli.Acceleration = 50;
+            heli.DoorCounter = 2;
 
             Motorcycle motorcycle = new Motorcycle();
             motorcycle.Speed = 120;
@@ -29,8 +33,9 @@
             list.Add(car);
             list.Add(motorcycle);
             list.Add(plane);
+            list.Add(heli);
 
-            Console.WriteLine("Welches Fahrzeug möchtest du fahren?");
+            Console.WriteLine("Welches Fahrzeug möchtest du benutzen?");
             var userInput = Console.ReadLine();
 
             foreach (Vehicle vehicle in list)
@@ -41,20 +46,27 @@
 
                     vehicle.LogInformation();
 
-                    if(userInput == "Car")
+                    if (userInput == "Car")
                     {
                         Car myCar = vehicle as Car;
                         myCar.Move();
 
-                    } else if(userInput == "Motorcycle")
+                    } else if (userInput == nameof(Motorcycle))
                     {
                         Motorcycle myBike = vehicle as Motorcycle;
                         myBike.Move();
 
-                    } else if(userInput == "Plane")
+                    } else if (userInput == nameof(Plane))
                     {
                         Plane myPlane = vehicle as Plane;
                         myPlane.Move();
+                        myPlane.Landing();
+
+                    } else if (userInput == "Helicopter")
+                    { 
+                        Helicopter myHelicopter = vehicle as Helicopter;
+                        myHelicopter.Move();
+                        myHelicopter.Landing();
 
                     } else
                     {

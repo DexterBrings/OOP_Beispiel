@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{73BCD001-F1C3-4927-9366-8D02380C699B}|OOP_Beispiel\\OOP_Beispiel.csproj|solutionrelative:oop_beispiel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{73BCD001-F1C3-4927-9366-8D02380C699B}|OOP_Beispiel\\OOP_Beispiel.csproj|c:\\users\\admin\\source\\repos\\oop_beispiel\\oop_beispiel\\oop_beispiel\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73BCD001-F1C3-4927-9366-8D02380C699B}|OOP_Beispiel\\OOP_Beispiel.csproj|solutionrelative:oop_beispiel\\helicopter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{73BCD001-F1C3-4927-9366-8D02380C699B}|OOP_Beispiel\\OOP_Beispiel.csproj|c:\\users\\admin\\source\\repos\\oop_beispiel\\oop_beispiel\\oop_beispiel\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{73BCD001-F1C3-4927-9366-8D02380C699B}|OOP_Beispiel\\OOP_Beispiel.csproj|solutionrelative:oop_beispiel\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,17 +38,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Plane.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Plane.cs",
               "RelativeDocumentMoniker": "OOP_Beispiel\\Plane.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Plane.cs",
               "RelativeToolTip": "OOP_Beispiel\\Plane.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T17:37:46.063Z",
               "IsPinned": true,
@@ -52,7 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
+              "Title": "Helicopter.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Helicopter.cs",
+              "RelativeDocumentMoniker": "OOP_Beispiel\\Helicopter.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Helicopter.cs",
+              "RelativeToolTip": "OOP_Beispiel\\Helicopter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T19:36:39.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IVehicle.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\IVehicle.cs",
               "RelativeDocumentMoniker": "OOP_Beispiel\\IVehicle.cs",
@@ -60,12 +77,11 @@
               "RelativeToolTip": "OOP_Beispiel\\IVehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T20:31:59.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T20:31:59.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Motorcycle.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Motorcycle.cs",
               "RelativeDocumentMoniker": "OOP_Beispiel\\Motorcycle.cs",
@@ -73,12 +89,11 @@
               "RelativeToolTip": "OOP_Beispiel\\Motorcycle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:37:30.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:37:30.439Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Car.cs",
               "RelativeDocumentMoniker": "OOP_Beispiel\\Car.cs",
@@ -86,12 +101,11 @@
               "RelativeToolTip": "OOP_Beispiel\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:37:12.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:37:12.705Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Vehicle.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Vehicle.cs",
               "RelativeDocumentMoniker": "OOP_Beispiel\\Vehicle.cs",
@@ -99,8 +113,7 @@
               "RelativeToolTip": "OOP_Beispiel\\Vehicle.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-09T17:35:46.777Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-09T17:35:46.777Z"
             },
             {
               "$type": "Document",
@@ -110,7 +123,7 @@
               "RelativeDocumentMoniker": "OOP_Beispiel\\Program.cs",
               "ToolTip": "C:\\Users\\Admin\\source\\repos\\OOP_Beispiel\\OOP_Beispiel\\OOP_Beispiel\\Program.cs",
               "RelativeToolTip": "OOP_Beispiel\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-09T17:34:39.789Z",
               "EditorCaption": ""

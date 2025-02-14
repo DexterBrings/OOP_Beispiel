@@ -14,5 +14,10 @@ namespace OOP_Beispiel
         {
             Console.WriteLine("Das Flugzeug fliegt.");
         }
+
+        public virtual void Landing()
+        {
+            Console.WriteLine("Das Flugzeug landet in Kürze.");
+        }
     }
 }
